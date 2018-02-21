@@ -11,10 +11,10 @@ break;
 }
 }
 if(count==0)
-{cout<<"The given number "<<num<<" is a prime number"<<endl;
+{cout<<"The given number "<<num<<" is a prime number(Yes)."<<endl;
 }
 else
-{cout<<"The given number "<<num<<" is not a prime number"<<endl;
+{cout<<"The given number "<<num<<" is not a prime number(No)."<<endl;
 }
 return 0;
 }
